@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitShop", "FruitShop\FruitShop.csproj", "{3CD4BCC7-F9E8-49A7-B855-2692AF2906DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitShop.Tests", "FruitShop.Tests\FruitShop.Tests.csproj", "{5B7839D3-FD7C-464B-8BCE-7CDAF49D92BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD4BCC7-F9E8-49A7-B855-2692AF2906DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD4BCC7-F9E8-49A7-B855-2692AF2906DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD4BCC7-F9E8-49A7-B855-2692AF2906DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD4BCC7-F9E8-49A7-B855-2692AF2906DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7839D3-FD7C-464B-8BCE-7CDAF49D92BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7839D3-FD7C-464B-8BCE-7CDAF49D92BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7839D3-FD7C-464B-8BCE-7CDAF49D92BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7839D3-FD7C-464B-8BCE-7CDAF49D92BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
